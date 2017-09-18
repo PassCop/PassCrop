@@ -1,0 +1,9 @@
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\bin\Release\PassCop.exe.config
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\bin\Release\PassCop.exe
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\bin\Release\PassCop.pdb
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\obj\Release\PassCop.Login.resources
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\obj\Release\PassCop.Properties.Resources.resources
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\obj\Release\PassCop.csproj.GenerateResource.Cache
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\obj\Release\PassCop.csproj.CoreCompileInputs.cache
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\obj\Release\PassCop.exe
+C:\Users\dq\Documents\PassCop\PassCop\PassCop\obj\Release\PassCop.pdb
